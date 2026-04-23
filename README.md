@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-I'm currently learning DevOps and focusing problem solving using DSA
-CS UnderGrad'27
-Writing code is something I genuinely enjoy.
+# I'm currently learning DevOps and focusing problem solving using DSA
+# CS UnderGrad'27
+# Writing code is something I genuinely enjoy.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiteshace) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrhiteshgehlot@gmail.com) 
